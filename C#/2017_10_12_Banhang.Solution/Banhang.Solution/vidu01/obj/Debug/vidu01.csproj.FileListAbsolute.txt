@@ -1,0 +1,11 @@
+D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01\bin\Debug\vidu01.exe.config
+D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01\bin\Debug\vidu01.exe
+D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01\bin\Debug\vidu01.pdb
+D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01\obj\Debug\vidu01.csprojResolveAssemblyReference.cache
+D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01\obj\Debug\vidu01.MainForm.resources
+D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01\obj\Debug\vidu01.Properties.Resources.resources
+D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01\obj\Debug\vidu01.csproj.GenerateResource.Cache
+D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01\obj\Debug\vidu01.exe
+D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01\obj\Debug\vidu01.pdb
+D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01\bin\Debug\vidu01Lib.dll
+D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01\bin\Debug\vidu01Lib.pdb

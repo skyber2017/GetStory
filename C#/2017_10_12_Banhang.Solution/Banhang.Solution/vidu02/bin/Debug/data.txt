@@ -1,0 +1,1 @@
+[{"Maso":"3","Holot":"Trần Gia","Ten":"Tuấn Đạt","Gioitinh":null},{"Maso":"4","Holot":"Trần Đỗ","Ten":"Đông Trà","Gioitinh":null},{"Maso":"1","Holot":"Trần Phước","Ten":"Tuấn","Gioitinh":null},{"Maso":"2","Holot":"Trần Gia","Ten":"Tuấn Thành","Gioitinh":null}]
