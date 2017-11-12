@@ -1,6 +1,6 @@
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
-import threading,random,time
+import threading,random,time,os
 url = 'https://tkbremake3webversion.herokuapp.com/signup' # Set destination URL here
 def get_random(size):
 	out = ""
@@ -9,8 +9,11 @@ def get_random(size):
 		out += chr(a)
 	return out
 def run():
+	send = 0
+	os.system("cls")
 	while True:
 		try:
+			send += 1
 			x = time.time()
 			a = get_random(6)
 			b = get_random(6)
@@ -21,10 +24,10 @@ def run():
 			json = urlopen(request).read().decode()
 			
 			#print("Trying user [%s] with password [%s] and email is [%s] in times %ss"%(a,b,c,y-x))
-			print(post_fields, "times in ",end="")
+			print("Trying %s"%send +post_fields, "times in ",end="")
 			
 			y = time.time()
-			print("%ss with status"%(y-x))
+			print("%ss with status "%(y-x),end="")
 			if json == 'true':
 				print("[Successful]")
 			else:
