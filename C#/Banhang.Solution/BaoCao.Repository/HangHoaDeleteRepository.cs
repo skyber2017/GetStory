@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using BaoCao.Library;
 using System.Data.SqlClient;
-namespace HangHoa.Repository
+namespace BaoCao.Repository
 {
     public class HangHoaDeleteRepository : ConnectDatabase
     {

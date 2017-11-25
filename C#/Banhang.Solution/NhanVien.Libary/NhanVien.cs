@@ -5,10 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NhanVien.Libary
+namespace NhanVien.Domain
 {
     public class NhanVien
     {
+
         [DisplayName("Mã nhân viên")]
         public string NhanvienId { get; set; }
 
@@ -17,6 +18,8 @@ namespace NhanVien.Libary
 
         [DisplayName("Tên nhân viên")]
         public string Ten { get; set; }
+        [DisplayName("Giới tính")]
+        public bool Gioitinh { get; set; }
 
         [DisplayName("Ngày sinh")]
         public DateTime Ngaysinh { get; set; }

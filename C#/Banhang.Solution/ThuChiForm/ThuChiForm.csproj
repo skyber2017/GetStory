@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmThuChi.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmThuChi.Designer.cs">
+      <DependentUpon>frmThuChi.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="frmThuChi.resx">
+      <DependentUpon>frmThuChi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -80,9 +80,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ThuChi.Library\ThuChi.Library.csproj">
+    <ProjectReference Include="..\BaoCao.Library\BaoCao.Library.csproj">
+      <Project>{5390fb3e-d6f2-4742-aa52-27a65fe71210}</Project>
+      <Name>BaoCao.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThuChi.Library\ThuChi.Domain.csproj">
       <Project>{328e8840-693b-4adf-a3e7-a961ecac6bf5}</Project>
-      <Name>ThuChi.Library</Name>
+      <Name>ThuChi.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThuChi.Repository\ThuChi.Repository.csproj">
+      <Project>{b895fdc3-6b8b-48e4-9173-d59fc74085c9}</Project>
+      <Name>ThuChi.Repository</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

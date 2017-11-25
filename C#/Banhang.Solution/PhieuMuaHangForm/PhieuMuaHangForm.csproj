@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmPhieuMuaHang.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmPhieuMuaHang.Designer.cs">
+      <DependentUpon>frmPhieuMuaHang.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="frmPhieuMuaHang.resx">
+      <DependentUpon>frmPhieuMuaHang.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -80,9 +80,21 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PhieuMuaHang.Library\PhieuMuaHang.Library.csproj">
+    <ProjectReference Include="..\BaoCao.Library\BaoCao.Library.csproj">
+      <Project>{5390fb3e-d6f2-4742-aa52-27a65fe71210}</Project>
+      <Name>BaoCao.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BaoCao.Repository\HangHoa.Repository.csproj">
+      <Project>{1d212168-d100-46e0-aec5-4e98cda74859}</Project>
+      <Name>HangHoa.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PhieuMuaHang.Library\PhieuMuaHang.Domain.csproj">
       <Project>{262e9b2b-c9a5-4548-ba22-106ea195cbc6}</Project>
-      <Name>PhieuMuaHang.Library</Name>
+      <Name>PhieuMuaHang.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PhieuMuaHang.Repository\PhieuMuaHang.Repository.csproj">
+      <Project>{966a3f25-cba1-4ff3-9b47-cd75fe320745}</Project>
+      <Name>PhieuMuaHang.Repository</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

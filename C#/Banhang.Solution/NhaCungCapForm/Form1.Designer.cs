@@ -101,7 +101,7 @@
             // 
             // nhaCungCapBindingSource
             // 
-            this.nhaCungCapBindingSource.DataSource = typeof(NhaCungCap.Library.NhaCungCap);
+            this.nhaCungCapBindingSource.DataSource = typeof(NhaCungCap.Domain.NhaCungCap);
             // 
             // btnEdit
             // 
@@ -335,7 +335,6 @@
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Button btnLoad;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn nhonhanghoaIdDataGridViewTextBoxColumn;
         private System.Windows.Forms.BindingSource nhaCungCapBindingSource;
         private System.Windows.Forms.DataGridViewTextBoxColumn nhacungcapIdDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn tenDataGridViewTextBoxColumn;

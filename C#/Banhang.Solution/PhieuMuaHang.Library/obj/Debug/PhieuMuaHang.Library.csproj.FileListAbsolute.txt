@@ -4,3 +4,8 @@ E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\PhieuMuaHang.Library\ob
 E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\PhieuMuaHang.Library\obj\Debug\PhieuMuaHang.Library.dll
 E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\PhieuMuaHang.Library\obj\Debug\PhieuMuaHang.Library.pdb
 E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\PhieuMuaHang.Library\obj\Debug\PhieuMuaHang.Library.csprojResolveAssemblyReference.cache
+C:\Users\Admiral\Documents\GitHub\GetStory\C#\Banhang.Solution\PhieuMuaHang.Library\bin\Debug\PhieuMuaHang.Library.dll
+C:\Users\Admiral\Documents\GitHub\GetStory\C#\Banhang.Solution\PhieuMuaHang.Library\bin\Debug\PhieuMuaHang.Library.pdb
+C:\Users\Admiral\Documents\GitHub\GetStory\C#\Banhang.Solution\PhieuMuaHang.Library\obj\Debug\PhieuMuaHang.Library.csproj.CoreCompileInputs.cache
+C:\Users\Admiral\Documents\GitHub\GetStory\C#\Banhang.Solution\PhieuMuaHang.Library\obj\Debug\PhieuMuaHang.Library.dll
+C:\Users\Admiral\Documents\GitHub\GetStory\C#\Banhang.Solution\PhieuMuaHang.Library\obj\Debug\PhieuMuaHang.Library.pdb

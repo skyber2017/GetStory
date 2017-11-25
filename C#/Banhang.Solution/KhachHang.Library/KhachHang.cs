@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KhachHang.Library
+namespace KhachHang.Domain
 {
     public class KhachHang
     {
@@ -22,13 +22,7 @@ namespace KhachHang.Library
         public string Ten { get; set; }
 
         [DisplayName("Giới tính")]
-        public bool Gioitinh
-        {
-            get;
-            set;
-        }
-
-        
+        public bool Gioitinh{get;set;}       
 
         [DisplayName("Email")]
         public string Email { get; set; }

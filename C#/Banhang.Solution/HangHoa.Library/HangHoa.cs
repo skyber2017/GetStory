@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HangHoa.Library
+namespace HangHoa.Domain
 {
     public class HangHoa
     {

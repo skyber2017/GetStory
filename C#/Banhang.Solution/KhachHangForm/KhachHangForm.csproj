@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F3F69002-527A-4305-8BB2-9D2332CE5018}</ProjectGuid>
+    <ProjectGuid>{88EAC526-B8B4-4F42-B6B5-9DFC1B68C6D6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>KhachHangForm</RootNamespace>
     <AssemblyName>KhachHangForm</AssemblyName>
@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmKhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmKhachHang.Designer.cs">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="frmKhachHang.resx">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,7 +65,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="Properties\DataSources\KhachHang.Library.KhachHang.datasource" />
+    <None Include="Properties\DataSources\KhachHang.Domain.KhachHang.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -84,9 +84,13 @@
       <Project>{5390fb3e-d6f2-4742-aa52-27a65fe71210}</Project>
       <Name>BaoCao.Library</Name>
     </ProjectReference>
-    <ProjectReference Include="..\KhachHang.Library\KhachHang.Library.csproj">
+    <ProjectReference Include="..\KhachHang.Library\KhachHang.Domain.csproj">
       <Project>{441bb1ca-f4a7-47e9-97dd-1752987f4b5d}</Project>
-      <Name>KhachHang.Library</Name>
+      <Name>KhachHang.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KhachHang.Repository\KhachHang.Repository.csproj">
+      <Project>{54ec22a9-e6a9-4d4e-a6f3-63a9a6506432}</Project>
+      <Name>KhachHang.Repository</Name>
     </ProjectReference>
     <ProjectReference Include="..\PhieuMuaHangForm\PhieuMuaHangForm.csproj">
       <Project>{7ecad946-579a-43fc-bfff-fcc3f69444d7}</Project>

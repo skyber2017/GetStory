@@ -18,7 +18,7 @@ namespace mainForm
 
         private void hàngHóaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            var f = new HangHoaForm.Form1();
+            var f = new HangHoaForm.frmHangHoa();
             f.Show();
         }
 
@@ -31,8 +31,7 @@ namespace mainForm
 
         private void kháchHàngToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            var f = new KhachHangForm.Form1();
-            f.Show();
+            
         }
 
         private void nhàCungCấpToolStripMenuItem_Click(object sender, EventArgs e)
@@ -43,7 +42,7 @@ namespace mainForm
 
         private void thuChuToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            var f = new ThuChiForm.Form1();
+            var f = new ThuChiForm.frmThuChi();
             f.Show();
         }
     }

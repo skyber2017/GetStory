@@ -80,9 +80,21 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NhaCungCap.Library\NhaCungCap.Library.csproj">
+    <ProjectReference Include="..\BaoCao.Library\BaoCao.Library.csproj">
+      <Project>{5390FB3E-D6F2-4742-AA52-27A65FE71210}</Project>
+      <Name>BaoCao.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BaoCao.Repository\HangHoa.Repository.csproj">
+      <Project>{1d212168-d100-46e0-aec5-4e98cda74859}</Project>
+      <Name>HangHoa.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NhaCungCap.Library\NhaCungCap.Domain.csproj">
       <Project>{cad2190b-a158-4ba8-b16d-b6f43a8cf1c1}</Project>
-      <Name>NhaCungCap.Library</Name>
+      <Name>NhaCungCap.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NhaCungCap.Repository\NhaCungCap.Repository.csproj">
+      <Project>{2587ca3c-24aa-42f5-8f89-66e2e1c44f6e}</Project>
+      <Name>NhaCungCap.Repository</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

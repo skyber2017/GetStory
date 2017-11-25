@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PhieuMuaHang.Library
+namespace PhieuMuaHang.Domain
 {
     public class PhieuMuaHang
     {

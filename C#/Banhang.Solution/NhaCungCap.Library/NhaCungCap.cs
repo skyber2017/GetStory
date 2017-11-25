@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NhaCungCap.Library
+namespace NhaCungCap.Domain
 {
     public class NhaCungCap
     {

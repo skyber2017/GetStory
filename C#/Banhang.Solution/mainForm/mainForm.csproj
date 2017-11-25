@@ -83,10 +83,6 @@
       <Project>{c17c8125-0fed-44df-9092-710b8fd67c28}</Project>
       <Name>HangHoaForm</Name>
     </ProjectReference>
-    <ProjectReference Include="..\KhachHangForm\KhachHangForm.csproj">
-      <Project>{f3f69002-527a-4305-8bb2-9d2332ce5018}</Project>
-      <Name>KhachHangForm</Name>
-    </ProjectReference>
     <ProjectReference Include="..\NhaCungCapForm\NhaCungCapForm.csproj">
       <Project>{391d1e0a-ccec-48c7-a8bd-c0849e5257e7}</Project>
       <Name>NhaCungCapForm</Name>

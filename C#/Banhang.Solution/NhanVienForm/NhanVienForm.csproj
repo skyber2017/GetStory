@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmNhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="frmNhanVien.resx">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +65,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="Properties\DataSources\NhanVien.Domain.NhanVien.datasource" />
     <None Include="Properties\DataSources\NhanVien.Libary.NhanVien.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -80,9 +81,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NhanVien.Libary\NhanVien.Libary.csproj">
+    <ProjectReference Include="..\NhanVien.Libary\NhanVien.Domain.csproj">
       <Project>{8e1283e9-1490-446e-8972-fee6cb9995f8}</Project>
-      <Name>NhanVien.Libary</Name>
+      <Name>NhanVien.Domain</Name>
     </ProjectReference>
     <ProjectReference Include="..\PhieuBanHangForm\PhieuBanHangForm.csproj">
       <Project>{0f6c5974-45dd-4456-b84d-941517e97341}</Project>

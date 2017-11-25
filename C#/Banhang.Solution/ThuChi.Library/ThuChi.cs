@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ThuChi.Library
+namespace ThuChi.Domain
 {
     public class ThuChi
     {
