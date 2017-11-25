@@ -1,0 +1,17 @@
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\bin\Debug\KhachHangForm.exe.config
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\bin\Debug\KhachHangForm.exe
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\bin\Debug\KhachHangForm.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\obj\Debug\KhachHangForm.Properties.Resources.resources
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\obj\Debug\KhachHangForm.csproj.GenerateResource.Cache
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\obj\Debug\KhachHangForm.csproj.CoreCompileInputs.cache
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\obj\Debug\KhachHangForm.exe
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\obj\Debug\KhachHangForm.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\bin\Debug\KhachHang.Library.dll
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\bin\Debug\KhachHang.Library.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\obj\Debug\KhachHangForm.csprojResolveAssemblyReference.cache
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\obj\Debug\KhachHangForm.Form1.resources
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\bin\Debug\PhieuMuaHangForm.exe
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\bin\Debug\PhieuMuaHang.Library.dll
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\bin\Debug\PhieuMuaHangForm.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\bin\Debug\PhieuMuaHangForm.exe.config
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHangForm\bin\Debug\PhieuMuaHang.Library.pdb

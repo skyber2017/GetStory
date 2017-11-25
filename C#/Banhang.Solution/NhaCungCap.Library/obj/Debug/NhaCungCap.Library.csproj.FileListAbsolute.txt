@@ -1,0 +1,5 @@
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCap.Library\bin\Debug\NhaCungCap.Library.dll
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCap.Library\bin\Debug\NhaCungCap.Library.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCap.Library\obj\Debug\NhaCungCap.Library.csproj.CoreCompileInputs.cache
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCap.Library\obj\Debug\NhaCungCap.Library.dll
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCap.Library\obj\Debug\NhaCungCap.Library.pdb

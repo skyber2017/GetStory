@@ -1,0 +1,8 @@
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\BaoCao.Repository\bin\Debug\BaoCao.Repository.dll
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\BaoCao.Repository\bin\Debug\BaoCao.Repository.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\BaoCao.Repository\obj\Debug\BaoCao.Repository.csproj.CoreCompileInputs.cache
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\BaoCao.Repository\obj\Debug\BaoCao.Repository.dll
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\BaoCao.Repository\obj\Debug\BaoCao.Repository.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\BaoCao.Repository\bin\Debug\BaoCao.Library.dll
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\BaoCao.Repository\bin\Debug\BaoCao.Library.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\BaoCao.Repository\obj\Debug\BaoCao.Repository.csprojResolveAssemblyReference.cache

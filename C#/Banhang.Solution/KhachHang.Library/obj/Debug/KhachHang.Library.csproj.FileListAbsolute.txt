@@ -1,0 +1,5 @@
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHang.Library\bin\Debug\KhachHang.Library.dll
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHang.Library\bin\Debug\KhachHang.Library.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHang.Library\obj\Debug\KhachHang.Library.csproj.CoreCompileInputs.cache
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHang.Library\obj\Debug\KhachHang.Library.dll
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\KhachHang.Library\obj\Debug\KhachHang.Library.pdb

@@ -1,4 +1,0 @@
-D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01Lib\bin\Debug\vidu01Lib.dll
-D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01Lib\bin\Debug\vidu01Lib.pdb
-D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01Lib\obj\Debug\vidu01Lib.dll
-D:\__dhsp\2017_04_23_Banhang.Solution\Banhang.Solution\vidu01Lib\obj\Debug\vidu01Lib.pdb

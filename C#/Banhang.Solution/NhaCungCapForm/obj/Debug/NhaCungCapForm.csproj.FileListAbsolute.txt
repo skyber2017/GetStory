@@ -1,0 +1,12 @@
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\bin\Debug\NhaCungCapForm.exe.config
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\bin\Debug\NhaCungCapForm.exe
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\bin\Debug\NhaCungCapForm.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\obj\Debug\NhaCungCapForm.Form1.resources
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\obj\Debug\NhaCungCapForm.Properties.Resources.resources
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\obj\Debug\NhaCungCapForm.csproj.GenerateResource.Cache
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\obj\Debug\NhaCungCapForm.csproj.CoreCompileInputs.cache
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\obj\Debug\NhaCungCapForm.exe
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\obj\Debug\NhaCungCapForm.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\bin\Debug\NhaCungCap.Library.dll
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\bin\Debug\NhaCungCap.Library.pdb
+E:\HomeWork\2017_10_12_Banhang.Solution\Banhang.Solution\NhaCungCapForm\obj\Debug\NhaCungCapForm.csprojResolveAssemblyReference.cache
